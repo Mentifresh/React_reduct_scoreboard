@@ -1,1 +1,1 @@
-# React_reduct_scoreboard
+# React_redux_scoreboard
